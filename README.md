@@ -1,9 +1,7 @@
+Vue2.0+全家桶做的去哪儿旅行app
+
 # travel
-
-> microzhen travel application
-
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
@@ -13,9 +11,20 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+技术栈：
+vue-cli
+vuex
+vue-router
+axios
+stylus-loader
+
+第三方包
+Better-scroll
+babel-polyfill
+fastclick
+
+插件
+vue-awesome-swiper
+swiper
