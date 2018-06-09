@@ -13,18 +13,28 @@ npm run dev
 npm run build
 ```
 
-技术栈：
+## 技术栈：
+``` bash
 vue-cli
 vuex
 vue-router
 axios
 stylus-loader
+......
+```
 
-第三方包
+
+## 第三方包
+``` bash
 Better-scroll
 babel-polyfill
 fastclick
+```
 
-插件
+
+## 插件
+``` bash
 vue-awesome-swiper
 swiper
+```
+
