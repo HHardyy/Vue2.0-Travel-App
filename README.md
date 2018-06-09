@@ -1,6 +1,6 @@
-Vue2.0+全家桶做的去哪儿旅行app
+## Vue2.0+全家桶做的去哪儿旅行app
 
-# travel
+## travel
 ## Build Setup
 ``` bash
 # install dependencies
